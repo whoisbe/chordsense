@@ -1,7 +1,29 @@
 {
+  "name": "chordsense",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
   "dependencies": {
+    "@types/node": "^24.7.0",
+    "@types/react": "^19.2.2",
     "gray-matter": "^4.0.3",
+    "next": "^15.5.4",
     "next-mdx-remote": "^5.0.0",
-    "reading-time": "^1.5.0"
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "reading-time": "^1.5.0",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.14",
+    "@tailwindcss/typography": "^0.5.19",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.14"
   }
 }
