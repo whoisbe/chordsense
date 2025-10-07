@@ -1,0 +1,375 @@
+chord_name,notes,chord_family
+A#aug,"A#, D, F#",Augmented
+A#aug7,"A#, D, F#, G#",Augmented
+Aaug,"A, C#, F",Augmented
+Aaug7,"A, C#, F, G",Augmented
+Abaug,"Ab, C, E",Augmented
+Abaug7,"Ab, C, E, Gb",Augmented
+Baug,"B, D#, G",Augmented
+Baug7,"B, D#, G, A",Augmented
+Bbaug,"Bb, D, Gb",Augmented
+Bbaug7,"Bb, D, Gb, Ab",Augmented
+C#aug,"C#, F, A",Augmented
+C#aug7,"C#, F, A, B",Augmented
+Caug,"C, E, G#",Augmented
+Caug7,"C, E, G#, A#",Augmented
+D#aug,"D#, G, B",Augmented
+D#aug7,"D#, G, B, C#",Augmented
+Daug,"D, F#, A#",Augmented
+Daug7,"D, F#, A#, C",Augmented
+Dbaug,"Db, F, A",Augmented
+Dbaug7,"Db, F, A, B",Augmented
+Eaug,"E, G#, C",Augmented
+Eaug7,"E, G#, C, D",Augmented
+Ebaug,"Eb, G, B",Augmented
+Ebaug7,"Eb, G, B, Db",Augmented
+F#aug,"F#, A#, D",Augmented
+F#aug7,"F#, A#, D, E",Augmented
+Faug,"F, A, C#",Augmented
+Faug7,"F, A, C#, D#",Augmented
+G#aug,"G#, C, E",Augmented
+G#aug7,"G#, C, E, F#",Augmented
+Gaug,"G, B, D#",Augmented
+Gaug7,"G, B, D#, F",Augmented
+Gbaug,"Gb, Bb, D",Augmented
+Gbaug7,"Gb, Bb, D, E",Augmented
+A#dim,"A#, C#, E",Diminished
+A#dim7,"A#, C#, E, G",Diminished
+A#m7b5,"A#, C#, E, G#",Diminished
+Abdim,"Ab, B, D",Diminished
+Abdim7,"Ab, B, D, F",Diminished
+Abm7b5,"Ab, B, D, Gb",Diminished
+Adim,"A, C, D#",Diminished
+Adim7,"A, C, D#, F#",Diminished
+Am7b5,"A, C, D#, G",Diminished
+Bbdim,"Bb, Db, E",Diminished
+Bbdim7,"Bb, Db, E, G",Diminished
+Bbm7b5,"Bb, Db, E, Ab",Diminished
+Bdim,"B, D, F",Diminished
+Bdim7,"B, D, F, G#",Diminished
+Bm7b5,"B, D, F, A",Diminished
+C#dim,"C#, E, G",Diminished
+C#dim7,"C#, E, G, A#",Diminished
+C#m7b5,"C#, E, G, B",Diminished
+Cdim,"C, D#, F#",Diminished
+Cdim7,"C, D#, F#, A",Diminished
+Cm7b5,"C, D#, F#, A#",Diminished
+D#dim,"D#, F#, A",Diminished
+D#dim7,"D#, F#, A, C",Diminished
+D#m7b5,"D#, F#, A, C#",Diminished
+Dbdim,"Db, E, G",Diminished
+Dbdim7,"Db, E, G, Bb",Diminished
+Dbm7b5,"Db, E, G, B",Diminished
+Ddim,"D, F, G#",Diminished
+Ddim7,"D, F, G#, B",Diminished
+Dm7b5,"D, F, G#, C",Diminished
+Ebdim,"Eb, Gb, A",Diminished
+Ebdim7,"Eb, Gb, A, C",Diminished
+Ebm7b5,"Eb, Gb, A, Db",Diminished
+Edim,"E, G, A#",Diminished
+Edim7,"E, G, A#, C#",Diminished
+Em7b5,"E, G, A#, D",Diminished
+F#dim,"F#, A, C",Diminished
+F#dim7,"F#, A, C, D#",Diminished
+F#m7b5,"F#, A, C, E",Diminished
+Fdim,"F, G#, B",Diminished
+Fdim7,"F, G#, B, D",Diminished
+Fm7b5,"F, G#, B, D#",Diminished
+G#dim,"G#, B, D",Diminished
+G#dim7,"G#, B, D, F",Diminished
+G#m7b5,"G#, B, D, F#",Diminished
+Gbdim,"Gb, A, C",Diminished
+Gbdim7,"Gb, A, C, Eb",Diminished
+Gbm7b5,"Gb, A, C, E",Diminished
+Gdim,"G, A#, C#",Diminished
+Gdim7,"G, A#, C#, E",Diminished
+Gm7b5,"G, A#, C#, F",Diminished
+A#11,"A#, D, F, G#, C, D#",Dominant
+A#7,"A#, D, F, G#",Dominant
+A#7sus4,"A#, D#, F, G#",Dominant
+A#9,"A#, D, F, G#, C",Dominant
+A11,"A, C#, E, G, B, D",Dominant
+A7,"A, C#, E, G",Dominant
+A7sus4,"A, D, E, G",Dominant
+A9,"A, C#, E, G, B",Dominant
+Ab11,"Ab, C, Eb, Gb, Bb, Db",Dominant
+Ab7,"Ab, C, Eb, Gb",Dominant
+Ab7sus4,"Ab, Db, Eb, Gb",Dominant
+Ab9,"Ab, C, Eb, Gb, Bb",Dominant
+B11,"B, D#, F#, A, C#, E",Dominant
+B7,"B, D#, F#, A",Dominant
+B7sus4,"B, E, F#, A",Dominant
+B9,"B, D#, F#, A, C#",Dominant
+Bb11,"Bb, D, F, Ab, C, Eb",Dominant
+Bb7,"Bb, D, F, Ab",Dominant
+Bb7sus4,"Bb, Eb, F, Ab",Dominant
+Bb9,"Bb, D, F, Ab, C",Dominant
+C#11,"C#, F, G#, B, D#, F#",Dominant
+C#7,"C#, F, G#, B",Dominant
+C#7sus4,"C#, F#, G#, B",Dominant
+C#9,"C#, F, G#, B, D#",Dominant
+C11,"C, E, G, A#, D, F",Dominant
+C7,"C, E, G, A#",Dominant
+C7sus4,"C, F, G, A#",Dominant
+C9,"C, E, G, A#, D",Dominant
+D#11,"D#, G, A#, C#, F, G#",Dominant
+D#7,"D#, G, A#, C#",Dominant
+D#7sus4,"D#, G#, A#, C#",Dominant
+D#9,"D#, G, A#, C#, F",Dominant
+D11,"D, F#, A, C, E, G",Dominant
+D7,"D, F#, A, C",Dominant
+D7sus4,"D, G, A, C",Dominant
+D9,"D, F#, A, C, E",Dominant
+Db11,"Db, F, Ab, B, Eb, Gb",Dominant
+Db7,"Db, F, Ab, B",Dominant
+Db7sus4,"Db, Gb, Ab, B",Dominant
+Db9,"Db, F, Ab, B, Eb",Dominant
+E11,"E, G#, B, D, F#, A",Dominant
+E7,"E, G#, B, D",Dominant
+E7sus4,"E, A, B, D",Dominant
+E9,"E, G#, B, D, F#",Dominant
+Eb11,"Eb, G, Bb, Db, F, Ab",Dominant
+Eb7,"Eb, G, Bb, Db",Dominant
+Eb7sus4,"Eb, Ab, Bb, Db",Dominant
+Eb9,"Eb, G, Bb, Db, F",Dominant
+F#11,"F#, A#, C#, E, G#, B",Dominant
+F#7,"F#, A#, C#, E",Dominant
+F#7sus4,"F#, B, C#, E",Dominant
+F#9,"F#, A#, C#, E, G#",Dominant
+F11,"F, A, C, D#, G, A#",Dominant
+F7,"F, A, C, D#",Dominant
+F7sus4,"F, A#, C, D#",Dominant
+F9,"F, A, C, D#, G",Dominant
+G#11,"G#, C, D#, F#, A#, C#",Dominant
+G#7,"G#, C, D#, F#",Dominant
+G#7sus4,"G#, C#, D#, F#",Dominant
+G#9,"G#, C, D#, F#, A#",Dominant
+G11,"G, B, D, F, A, C",Dominant
+G7,"G, B, D, F",Dominant
+G7sus4,"G, C, D, F",Dominant
+G9,"G, B, D, F, A",Dominant
+Gb11,"Gb, Bb, Db, E, Ab, B",Dominant
+Gb7,"Gb, Bb, Db, E",Dominant
+Gb7sus4,"Gb, B, Db, E",Dominant
+Gb9,"Gb, Bb, Db, E, Ab",Dominant
+A,"A, C#, E",Major
+A#,"A#, D, F",Major
+A#6,"A#, D, F, G",Major
+A#maj11,"A#, D, F, A, C, D#",Major
+A#maj7,"A#, D, F, A",Major
+A#maj9,"A#, D, F, A, C",Major
+A6,"A, C#, E, F#",Major
+Ab,"Ab, C, Eb",Major
+Ab6,"Ab, C, Eb, F",Major
+Abmaj11,"Ab, C, Eb, G, Bb, Db",Major
+Abmaj7,"Ab, C, Eb, G",Major
+Abmaj9,"Ab, C, Eb, G, Bb",Major
+Amaj11,"A, C#, E, G#, B, D",Major
+Amaj7,"A, C#, E, G#",Major
+Amaj9,"A, C#, E, G#, B",Major
+B,"B, D#, F#",Major
+B6,"B, D#, F#, G#",Major
+Bb,"Bb, D, F",Major
+Bb6,"Bb, D, F, G",Major
+Bbmaj11,"Bb, D, F, A, C, Eb",Major
+Bbmaj7,"Bb, D, F, A",Major
+Bbmaj9,"Bb, D, F, A, C",Major
+Bmaj11,"B, D#, F#, A#, C#, E",Major
+Bmaj7,"B, D#, F#, A#",Major
+Bmaj9,"B, D#, F#, A#, C#",Major
+C,"C, E, G",Major
+C#,"C#, F, G#",Major
+C#6,"C#, F, G#, A#",Major
+C#maj11,"C#, F, G#, C, D#, F#",Major
+C#maj7,"C#, F, G#, C",Major
+C#maj9,"C#, F, G#, C, D#",Major
+C6,"C, E, G, A",Major
+Cmaj11,"C, E, G, B, D, F",Major
+Cmaj7,"C, E, G, B",Major
+Cmaj9,"C, E, G, B, D",Major
+D,"D, F#, A",Major
+D#,"D#, G, A#",Major
+D#6,"D#, G, A#, C",Major
+D#maj11,"D#, G, A#, D, F, G#",Major
+D#maj7,"D#, G, A#, D",Major
+D#maj9,"D#, G, A#, D, F",Major
+D6,"D, F#, A, B",Major
+Db,"Db, F, Ab",Major
+Db6,"Db, F, Ab, Bb",Major
+Dbmaj11,"Db, F, Ab, C, Eb, Gb",Major
+Dbmaj7,"Db, F, Ab, C",Major
+Dbmaj9,"Db, F, Ab, C, Eb",Major
+Dmaj11,"D, F#, A, C#, E, G",Major
+Dmaj7,"D, F#, A, C#",Major
+Dmaj9,"D, F#, A, C#, E",Major
+E,"E, G#, B",Major
+E6,"E, G#, B, C#",Major
+Eb,"Eb, G, Bb",Major
+Eb6,"Eb, G, Bb, C",Major
+Ebmaj11,"Eb, G, Bb, D, F, Ab",Major
+Ebmaj7,"Eb, G, Bb, D",Major
+Ebmaj9,"Eb, G, Bb, D, F",Major
+Emaj11,"E, G#, B, D#, F#, A",Major
+Emaj7,"E, G#, B, D#",Major
+Emaj9,"E, G#, B, D#, F#",Major
+F,"F, A, C",Major
+F#,"F#, A#, C#",Major
+F#6,"F#, A#, C#, D#",Major
+F#maj11,"F#, A#, C#, F, G#, B",Major
+F#maj7,"F#, A#, C#, F",Major
+F#maj9,"F#, A#, C#, F, G#",Major
+F6,"F, A, C, D",Major
+Fmaj11,"F, A, C, E, G, A#",Major
+Fmaj7,"F, A, C, E",Major
+Fmaj9,"F, A, C, E, G",Major
+G,"G, B, D",Major
+G#,"G#, C, D#",Major
+G#6,"G#, C, D#, F",Major
+G#maj11,"G#, C, D#, G, A#, C#",Major
+G#maj7,"G#, C, D#, G",Major
+G#maj9,"G#, C, D#, G, A#",Major
+G6,"G, B, D, E",Major
+Gb,"Gb, Bb, Db",Major
+Gb6,"Gb, Bb, Db, Eb",Major
+Gbmaj11,"Gb, Bb, Db, F, Ab, B",Major
+Gbmaj7,"Gb, Bb, Db, F",Major
+Gbmaj9,"Gb, Bb, Db, F, Ab",Major
+Gmaj11,"G, B, D, F#, A, C",Major
+Gmaj7,"G, B, D, F#",Major
+Gmaj9,"G, B, D, F#, A",Major
+A#m,"A#, C#, F",Minor
+A#m(maj7),"A#, C#, F, A",Minor
+A#m11,"A#, C#, F, G#, C, D#",Minor
+A#m6,"A#, C#, F, G",Minor
+A#m7,"A#, C#, F, G#",Minor
+A#m9,"A#, C#, F, G#, C",Minor
+Abm,"Ab, B, Eb",Minor
+Abm(maj7),"Ab, B, Eb, G",Minor
+Abm11,"Ab, B, Eb, Gb, Bb, Db",Minor
+Abm6,"Ab, B, Eb, F",Minor
+Abm7,"Ab, B, Eb, Gb",Minor
+Abm9,"Ab, B, Eb, Gb, Bb",Minor
+Am,"A, C, E",Minor
+Am(maj7),"A, C, E, G#",Minor
+Am11,"A, C, E, G, B, D",Minor
+Am6,"A, C, E, F#",Minor
+Am7,"A, C, E, G",Minor
+Am9,"A, C, E, G, B",Minor
+Bbm,"Bb, Db, F",Minor
+Bbm(maj7),"Bb, Db, F, A",Minor
+Bbm11,"Bb, Db, F, Ab, C, Eb",Minor
+Bbm6,"Bb, Db, F, G",Minor
+Bbm7,"Bb, Db, F, Ab",Minor
+Bbm9,"Bb, Db, F, Ab, C",Minor
+Bm,"B, D, F#",Minor
+Bm(maj7),"B, D, F#, A#",Minor
+Bm11,"B, D, F#, A, C#, E",Minor
+Bm6,"B, D, F#, G#",Minor
+Bm7,"B, D, F#, A",Minor
+Bm9,"B, D, F#, A, C#",Minor
+C#m,"C#, E, G#",Minor
+C#m(maj7),"C#, E, G#, C",Minor
+C#m11,"C#, E, G#, B, D#, F#",Minor
+C#m6,"C#, E, G#, A#",Minor
+C#m7,"C#, E, G#, B",Minor
+C#m9,"C#, E, G#, B, D#",Minor
+Cm,"C, D#, G",Minor
+Cm(maj7),"C, D#, G, B",Minor
+Cm11,"C, D#, G, A#, D, F",Minor
+Cm6,"C, D#, G, A",Minor
+Cm7,"C, D#, G, A#",Minor
+Cm9,"C, D#, G, A#, D",Minor
+D#m,"D#, F#, A#",Minor
+D#m(maj7),"D#, F#, A#, D",Minor
+D#m11,"D#, F#, A#, C#, F, G#",Minor
+D#m6,"D#, F#, A#, C",Minor
+D#m7,"D#, F#, A#, C#",Minor
+D#m9,"D#, F#, A#, C#, F",Minor
+Dbm,"Db, E, Ab",Minor
+Dbm(maj7),"Db, E, Ab, C",Minor
+Dbm11,"Db, E, Ab, B, Eb, Gb",Minor
+Dbm6,"Db, E, Ab, Bb",Minor
+Dbm7,"Db, E, Ab, B",Minor
+Dbm9,"Db, E, Ab, B, Eb",Minor
+Dm,"D, F, A",Minor
+Dm(maj7),"D, F, A, C#",Minor
+Dm11,"D, F, A, C, E, G",Minor
+Dm6,"D, F, A, B",Minor
+Dm7,"D, F, A, C",Minor
+Dm9,"D, F, A, C, E",Minor
+Ebm,"Eb, Gb, Bb",Minor
+Ebm(maj7),"Eb, Gb, Bb, D",Minor
+Ebm11,"Eb, Gb, Bb, Db, F, Ab",Minor
+Ebm6,"Eb, Gb, Bb, C",Minor
+Ebm7,"Eb, Gb, Bb, Db",Minor
+Ebm9,"Eb, Gb, Bb, Db, F",Minor
+Em,"E, G, B",Minor
+Em(maj7),"E, G, B, D#",Minor
+Em11,"E, G, B, D, F#, A",Minor
+Em6,"E, G, B, C#",Minor
+Em7,"E, G, B, D",Minor
+Em9,"E, G, B, D, F#",Minor
+F#m,"F#, A, C#",Minor
+F#m(maj7),"F#, A, C#, F",Minor
+F#m11,"F#, A, C#, E, G#, B",Minor
+F#m6,"F#, A, C#, D#",Minor
+F#m7,"F#, A, C#, E",Minor
+F#m9,"F#, A, C#, E, G#",Minor
+Fm,"F, G#, C",Minor
+Fm(maj7),"F, G#, C, E",Minor
+Fm11,"F, G#, C, D#, G, A#",Minor
+Fm6,"F, G#, C, D",Minor
+Fm7,"F, G#, C, D#",Minor
+Fm9,"F, G#, C, D#, G",Minor
+G#m,"G#, B, D#",Minor
+G#m(maj7),"G#, B, D#, G",Minor
+G#m11,"G#, B, D#, F#, A#, C#",Minor
+G#m6,"G#, B, D#, F",Minor
+G#m7,"G#, B, D#, F#",Minor
+G#m9,"G#, B, D#, F#, A#",Minor
+Gbm,"Gb, A, Db",Minor
+Gbm(maj7),"Gb, A, Db, F",Minor
+Gbm11,"Gb, A, Db, E, Ab, B",Minor
+Gbm6,"Gb, A, Db, Eb",Minor
+Gbm7,"Gb, A, Db, E",Minor
+Gbm9,"Gb, A, Db, E, Ab",Minor
+Gm,"G, A#, D",Minor
+Gm(maj7),"G, A#, D, F#",Minor
+Gm11,"G, A#, D, F, A, C",Minor
+Gm6,"G, A#, D, E",Minor
+Gm7,"G, A#, D, F",Minor
+Gm9,"G, A#, D, F, A",Minor
+A#sus2,"A#, C, F",Suspended
+A#sus4,"A#, D#, F",Suspended
+Absus2,"Ab, Bb, Eb",Suspended
+Absus4,"Ab, Db, Eb",Suspended
+Asus2,"A, B, E",Suspended
+Asus4,"A, D, E",Suspended
+Bbsus2,"Bb, C, F",Suspended
+Bbsus4,"Bb, Eb, F",Suspended
+Bsus2,"B, C#, F#",Suspended
+Bsus4,"B, E, F#",Suspended
+C#sus2,"C#, D#, G#",Suspended
+C#sus4,"C#, F#, G#",Suspended
+Csus2,"C, D, G",Suspended
+Csus4,"C, F, G",Suspended
+D#sus2,"D#, F, A#",Suspended
+D#sus4,"D#, G#, A#",Suspended
+Dbsus2,"Db, Eb, Ab",Suspended
+Dbsus4,"Db, Gb, Ab",Suspended
+Dsus2,"D, E, A",Suspended
+Dsus4,"D, G, A",Suspended
+Ebsus2,"Eb, F, Bb",Suspended
+Ebsus4,"Eb, Ab, Bb",Suspended
+Esus2,"E, F#, B",Suspended
+Esus4,"E, A, B",Suspended
+F#sus2,"F#, G#, C#",Suspended
+F#sus4,"F#, B, C#",Suspended
+Fsus2,"F, G, C",Suspended
+Fsus4,"F, A#, C",Suspended
+G#sus2,"G#, A#, D#",Suspended
+G#sus4,"G#, C#, D#",Suspended
+Gbsus2,"Gb, Ab, Db",Suspended
+Gbsus4,"Gb, B, Db",Suspended
+Gsus2,"G, A, D",Suspended
+Gsus4,"G, C, D",Suspended
