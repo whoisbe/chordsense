@@ -5,13 +5,25 @@ import Link from "next/link";
 
 const POSTS_DIR = path.join(process.cwd(), "content");
 
+interface PostMeta {
+  slug: string;
+  title: string;
+  summary: string;
+  date: string;
+}
+
 export default async function BlogIndex() {
   const files = await fs.readdir(POSTS_DIR);
-  const posts = await Promise.all(
+  const posts: PostMeta[] = await Promise.all(
     files.map(async (file) => {
       const raw = await fs.readFile(path.join(POSTS_DIR, file), "utf8");
       const { data } = matter(raw);
-      return { slug: file.replace(".mdx", ""), ...data };
+      return { 
+        slug: file.replace(".mdx", ""), 
+        title: data.title as string,
+        summary: data.summary as string,
+        date: data.date as string,
+      };
     })
   );
 
